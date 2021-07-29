@@ -1,4 +1,6 @@
 require('dotenv').config();
+require('mongodb');
+require('mongoose');
 
 
 let Person;
